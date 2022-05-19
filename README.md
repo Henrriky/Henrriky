@@ -2,7 +2,7 @@
 
 - 🔭 Em busca de ser um desenvolvedor mobile.
 - 🌱 Atualmente estudando diversas linguagens de programação.
-- 👯 Grande interesse em Java e Kotlin.
+- 👯 Grande interesse em Java, Kotlin e React Native.
 
 ##
 
