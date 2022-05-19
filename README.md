@@ -16,7 +16,7 @@
   <img align="center" alt="Henrriky-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Henrriky-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Henrriky-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Henrriky-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/52/78/b8/5278b8914a8d99f0155b54e8241caeda.gif">
+  <img align="right" alt="Henrriky-pic" height="150" style="border-radius:50px;" src="[https://i.pinimg.com/originals/52/78/b8/5278b8914a8d99f0155b54e8241caeda.gif](https://i.pinimg.com/originals/1a/ea/49/1aea49c4e479a3980cde28854ba6efb6.gif)">
 </div>
  
   ##
