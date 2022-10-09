@@ -1,20 +1,14 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Henrriky/c403975448d6b8cf7ab0ff22c666fd3f/raw/9b64b95da155b2570d5be5b7462ce9a88d092eb9/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mayk Brito</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hi, I'm Henrriky Jhonny</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Henrriky&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+- 🔥 Junior Mobile and Web Developer
 
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, React.js**
 
-- ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+<!-- - 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev) -->
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
-- ⚡ Fun fact **Oneye 😜**
-
-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
-
-<!--
 
 <br><br>
 
@@ -31,36 +25,33 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
 
-<br><br>
+
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Henrriky&show_icons=true&theme=vision-friendly-dark" alt="Henrriky's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrriky&layout=compact&theme=vision-friendly-dark" alt="Henrriky's most languages"/>
 </p>
--->
+
 
 <br><br>
 
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
+<a href="https://twitter.com/TEC_TUTORS2707" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Henrriky-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+<a href="https://www.linkedin.com/in/henrriky-jhonny-446baa1b5/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Henrriky-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+<a href="https://instagram.com/Henrriky.jh" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Henrriky-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
