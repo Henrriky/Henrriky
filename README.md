@@ -56,14 +56,14 @@
 </p>
 
 ## ⚙️ &nbsp;GitHub Activity
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Henrriky)
-
-##
-
-<div align="center">
+<div align="left">
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Henrriky&bg_color=0d1117&color=f3f6f4&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  
+</div>
+
+<div align="center" style="width: 100%>
+
+![Snake animation](https://github.com/Henrriky/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 </div>
