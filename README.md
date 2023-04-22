@@ -34,8 +34,13 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left" style="display: grid; grid-template-columns: 1fr 1fr">
+
+
+<img width="600px" src="https://github-readme-stats.vercel.app/api?username=Henrriky&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=false" alt="Henrriky's stats"/>
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrriky&layout=compact&langs_count=7&bg_color=0d1117&hide_border=false" alt="Henrriky's most languages"/>
+  <!--
 <img width="520px" src="https://github-readme-stats.vercel.app/api?username=Henrriky&show_icons=true&theme=vision-friendly-dark" alt="Henrriky's stats"/>
-<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrriky&layout=compact&theme=vision-friendly-dark" alt="Henrriky's most languages"/>
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrriky&layout=compact&theme=vision-friendly-dark" alt="Henrriky's most languages"/> -->
 </p>
 
 
