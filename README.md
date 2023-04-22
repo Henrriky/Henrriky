@@ -33,15 +33,15 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Henrriky&show_icons=true&theme=vision-friendly-dark" alt="Henrriky's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrriky&layout=compact&theme=vision-friendly-dark" alt="Henrriky's most languages"/>
+<p align="left" style="display: grid; grid-template-columns: 1fr 1fr">
+<img width="520px" src="https://github-readme-stats.vercel.app/api?username=Henrriky&show_icons=true&theme=vision-friendly-dark" alt="Henrriky's stats"/>
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrriky&layout=compact&theme=vision-friendly-dark" alt="Henrriky's most languages"/>
 </p>
 
 
 <br><br>
 
-## Contact
+## ⚙️ Contact
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/TEC_TUTORS2707" target="_blank">
@@ -55,21 +55,15 @@
 </a>
 </p>
 
-<!--
+## ⚙️ &nbsp;GitHub Activity
 
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Henrriky)
 
+##
 
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+ 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Henrriky&bg_color=0d1117&color=f3f6f4&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+</div>
