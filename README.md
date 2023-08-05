@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, React.js**
 <a href="https://mailto:tectutors.123@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=email" alt="ME CHAME PELO MEU E-MAIL"/>  
+  <img align="center" src="https://img.shields.io/badge/-Contato-05122A?style=flat&logo=gmail" alt="ME CHAME PELO MEU E-MAIL"/>  
 </a>
 
 <!-- - 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev) -->
