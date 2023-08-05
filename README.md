@@ -5,7 +5,9 @@
 - 🔥 Junior Mobile and Web Developer
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, React.js**
-- [ACESSAR EMAIL](https://mailto:tectutors.123@gmail.com)
+<a href="https://mailto:tectutors.123@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Henrriky-05122A?style=flat&logo=email" alt="EMAIL"/>  
+</a>
 
 <!-- - 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev) -->
 
